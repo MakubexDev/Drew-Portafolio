@@ -5,7 +5,7 @@
 
   <h2 align="center">Drew hays - Personal Portfolio Website</h2>
 
-  Drew hays is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ Drew hays es un sitio web de cartera personal totalmente receptivo, <br />Responsivo para todos los dispositivos, compilado con HTML, CSS y JavaScript.
 
   <a href="https://codewithsadee.github.io/drew-hays-personal-portfolio/"><strong>➥ Live Demo</strong></a>
 
@@ -19,13 +19,13 @@
 
 ### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Antes de comenzar, asegúrese de haber cumplido con los siguientes requisitos:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git") debe estar instalado en su sistema operativo.
 
 ### Run Locally
 
-To run **Drew hays** locally, run this command on your git bash:
+Para ejecutar **Drew hays** localmente, ejecuta este comando en tu git bash:
 
 Linux and macOS:
 
@@ -38,10 +38,6 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/drew-hays-personal-portfolio.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
